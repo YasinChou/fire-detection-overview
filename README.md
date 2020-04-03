@@ -22,3 +22,6 @@ fire detection overview
 
  * (1)利用机器学习的火灾检测：https://github.com/tobybreckon/fire-detection-cnn
 
+
+# fire dataset by yasin
+https://blog.csdn.net/zhou4411781/article/details/100537926
